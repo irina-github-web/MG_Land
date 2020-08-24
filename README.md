@@ -2,7 +2,7 @@
  
 Landing page from .psd mockup
 
-#GitHub Pages
+# GitHub Pages
 
 https://irina-github-web.github.io/MoGo_/
 
